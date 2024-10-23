@@ -1,0 +1,21 @@
+h2 {
+font-family: Georgia, 'Times New Roman', Times, serif; text-align: center; font-size: xx-large;
+}
+table {
+   background-color: rgb(238, 236, 233); font-weight: bold; 
+}
+h2 {
+    font-size: 30px
+}
+h2 {
+    font-family: Georgia, 'Times New Roman', Times, serif; text-align: center; font-size: xx-large
+}
+#new1 {
+    font-family: Georgia, 'Times New Roman', Times, serif;font-size: xx-large;
+}
+.newclass {
+    font-size: xx-large
+}
+a {
+    font-size: xx-large; color: green;
+}
